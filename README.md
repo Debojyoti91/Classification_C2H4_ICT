@@ -7,4 +7,4 @@
 Repository Architecture:
 (i)    Data: Contains  all the data
 (ii)   Code: All the functions and modules can be found in this folder.
-(iii)  Notebook: Complete codes in the Jupyter-notebooks can be found here.
+(iii)  jupyter-notebook: Complete codes in the Jupyter-notebooks can be found here.
